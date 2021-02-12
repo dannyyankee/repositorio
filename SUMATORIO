@@ -18,6 +18,8 @@ public class BUCLE {
 			}
 			System.out.println ("La suma vale:" + suma);
 
+			//añado este comentario para hacer un commit desde GitBash (linea de comandos)
+
 		}
 
 	}
