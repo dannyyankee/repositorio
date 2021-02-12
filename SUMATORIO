@@ -1,0 +1,22 @@
+package REPOSITORIO;
+
+public class BUCLE {
+
+
+
+		public static void main (String [] args) {
+			// TODO código auxiliar de método generado automáticamente
+			int i = 1; // indice = cuantas veces voy a repetir el bucle
+			int suma = 0; // Acumulador
+			
+			 (i <= 10) {
+				System.out.println (i);
+				suma = suma + i;
+				i = i + 2;
+				System.out.println ("La suma parcial vale:" + suma);
+			}
+			System.out.println ("La suma vale:" + suma);
+
+		}
+
+	}
